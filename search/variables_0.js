@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['_5fblock_5fcount_0',['_block_count',['../d5/d8f/classFileReader.html#ac6a59dc5d895854ae6843a85ad8c716d',1,'FileReader']]],
+  ['_5fblock_5fsize_1',['_block_size',['../df/d19/classDuplicateSearch.html#ab5dcf48a810bcce3ae84300e5349ffd1',1,'DuplicateSearch::_block_size()'],['../d5/d8f/classFileReader.html#af0acf8f0766ba48d9726f5f426ea689c',1,'FileReader::_block_size()'],['../d4/daa/classSearchParameters.html#a437023925c473788d69b1ec563afcf24',1,'SearchParameters::_block_size()']]],
+  ['_5fcrt_5fglob_2',['_CRT_glob',['../df/d0a/main_8cpp.html#aa50f71a500bf8587637f7f97b90b3cf9',1,'main.cpp']]],
+  ['_5fdirs_3',['_dirs',['../d4/daa/classSearchParameters.html#aa61d3f9ef44376371a9b2ef2a05ed97f',1,'SearchParameters']]],
+  ['_5fduplicates_4',['_duplicates',['../df/d19/classDuplicateSearch.html#ac9b78b08e45011a6c9fddec610527de5',1,'DuplicateSearch']]],
+  ['_5fempty_5fhash_5',['_empty_hash',['../df/d19/classDuplicateSearch.html#a0f0d78b8bec3811a8db0e096857eeb82',1,'DuplicateSearch']]],
+  ['_5fexcluded_5fdirs_6',['_excluded_dirs',['../d4/daa/classSearchParameters.html#a49a41b39b125037bbed3ce051b02b8a9',1,'SearchParameters']]],
+  ['_5fexcluded_5fdirs_5ffull_7',['_excluded_dirs_full',['../d4/daa/classSearchParameters.html#abc261a4c7541792d9650f75f332858d0',1,'SearchParameters']]],
+  ['_5ffile_8',['_file',['../d5/d8f/classFileReader.html#ae68ea23b3fb9c637566d59b08eae5f27',1,'FileReader']]],
+  ['_5ffile_5fid_9',['_file_id',['../d7/d01/classFileList.html#a04a44203207dff5f5a8c26c7ea37316f',1,'FileList']]],
+  ['_5ffile_5flist_10',['_file_list',['../df/d19/classDuplicateSearch.html#a2b51cb118da6a37c947f27a1317d4251',1,'DuplicateSearch::_file_list()'],['../d7/d01/classFileList.html#a58aebbe551407282ee30e5e904de9d53',1,'FileList::_file_list()']]],
+  ['_5ffile_5fnames_11',['_file_names',['../df/d19/classDuplicateSearch.html#a700b7c00b28d720d900d3c76f9d12b67',1,'DuplicateSearch::_file_names()'],['../d7/d01/classFileList.html#a9c105ffa92453d7da7d6578c5f818b0a',1,'FileList::_file_names()']]],
+  ['_5ffile_5fregex_12',['_file_regex',['../d4/daa/classSearchParameters.html#aeb3e659e22bfa3d027f528136395d14b',1,'SearchParameters']]],
+  ['_5ffile_5fsize_13',['_file_size',['../d5/d8f/classFileReader.html#a39947535485587a468725a7628718ce6',1,'FileReader']]],
+  ['_5fhash_5falgo_14',['_hash_algo',['../df/d19/classDuplicateSearch.html#a17720b3c3ef7e2e7ef47e8c748e98515',1,'DuplicateSearch::_hash_algo()'],['../d4/daa/classSearchParameters.html#ac8afb93bf97ea2857a05fb7d3fc579e2',1,'SearchParameters::_hash_algo()']]],
+  ['_5fmax_5fdepth_15',['_max_depth',['../d4/daa/classSearchParameters.html#af7f8852a25a37dad71278a85b9743d32',1,'SearchParameters']]],
+  ['_5fmin_5ffile_5fsize_16',['_min_file_size',['../d4/daa/classSearchParameters.html#a5a0eca4ff0f39b7584ab4ae29bed2e82',1,'SearchParameters']]],
+  ['_5fparams_17',['_params',['../d7/d01/classFileList.html#a954494774b19e87108e907d84a2d4bc0',1,'FileList']]],
+  ['_5freaders_18',['_readers',['../df/d19/classDuplicateSearch.html#a3f684ec706b468d160723447edda8e5a',1,'DuplicateSearch']]],
+  ['_5fregex_5flist_19',['_regex_list',['../d7/d01/classFileList.html#aaf420611dd51d2f1cda2a6a31b7a553d',1,'FileList']]]
+];
