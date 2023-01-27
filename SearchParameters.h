@@ -10,6 +10,11 @@ enum class HashAlgo {
     MD5
 };
 
+/// <summary>
+/// Class SearchParameters - prepares the parameters for the search.
+/// </summary>
+/// <param name="argc">Number of command line parameters.</param>
+/// <param name="argv">Array of command line parameters.</param>
 class SearchParameters {
 public:
     SearchParameters(int argc, char** argv);

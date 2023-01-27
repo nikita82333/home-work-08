@@ -11,6 +11,11 @@
 using result_type = std::vector<std::vector<std::string>>;
 using hash_type = std::pair<std::uint64_t, std::uint64_t>;
 
+/// <summary>
+/// Class DuplicateSearch - searches for duplicate files.
+/// </summary>
+/// <param name="argc">Number of command line parameters.</param>
+/// <param name="argv">Array of command line parameters.</param>
 class DuplicateSearch {
 public:
     explicit DuplicateSearch(int argc, char** argv);

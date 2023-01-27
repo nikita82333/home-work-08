@@ -13,6 +13,10 @@
 namespace fs = boost::filesystem;
 using file_list_type = std::map<uintmax_t, std::vector<std::size_t>>;
 
+/// <summary>
+/// Class FileList - creates the first list of files to search for duplicates.
+/// </summary>
+/// <param name="params">A link to a class SearchParameters containing the parameters required for the search.</param>
 class FileList {
 public:
     explicit FileList(const SearchParameters& params);

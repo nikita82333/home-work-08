@@ -11,6 +11,9 @@
 
 using duint64_t = std::pair<std::uint64_t, std::uint64_t>;
 
+/// <summary>
+/// Class HashCalculator - calculates the hash of a string using a certain algorithm: murmurhash2, crc32, md5.
+/// </summary>
 class HashCalculator {
 public:
     HashCalculator() = default;

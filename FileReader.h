@@ -4,6 +4,12 @@
 #include <string>
 #include <fstream>
 
+/// <summary>
+/// Class FileReader - reads the file by blocks of a given size.
+/// </summary>
+/// <param name="filename">File name.</param>
+/// <param name="file_size">File size.</param>
+/// <param name="block_size">Block size.</param>
 class FileReader {
 public:
     FileReader(const std::string& filename, uintmax_t file_size, unsigned int block_size);
